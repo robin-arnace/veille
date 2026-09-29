@@ -176,7 +176,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
