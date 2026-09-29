@@ -1,3 +1,14 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+// Supprimer l'effet surligné sur les liens internes
+a.internal {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
