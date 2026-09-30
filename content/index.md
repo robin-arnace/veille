@@ -4,9 +4,9 @@ title: Robin Arnace - Espace de travail
 
 ### **Sommaire**
 
-- [BTS SIO 2026 - 2028](#BTS SIO 2026 - 2028)
-    - [Veille Technologique](#Veille Technologique)
-    - [Auto-Formation](#Auto-Formation)
+- [BTS SIO 2026 - 2028](#bts-sio-2026---2028)
+    - [Veille Technologique](#veille-technologique)
+    - [Auto-Formation](#auto-formation)
 
 ---
 
@@ -18,13 +18,13 @@ title: Robin Arnace - Espace de travail
 
 Bienvenue sur ma veille technologique ! J'y traite actuellement les sujets suivants :
 
-- [La cybersécurité orientée vers les solutions logicielles.](#La cybersécurité orientée vers les solutions logicielles.)
+- [La cybersécurité orientée vers les solutions logicielles.](#la-cybersécurité-orientée-vers-les-solutions-logicielles)
     
-- [L'évolution de l'intelligence artificielle et son impact sur le développement d'applications.](#L'évolution de l'intelligence artificielle et son impact sur le développement d'applications.)
+- [L'évolution de l'intelligence artificielle et son impact sur le développement d'applications.](#lévolution-de-lintelligence-artificielle-et-son-impact-sur-le-développement-dapplications)
     
-- [Creative Coding et génération procédurale : l'algorithmique au service des visuels.](#Creative Coding et génération procédurale : l'algorithmique au service des visuels.)
+- [Creative Coding et génération procédurale : l'algorithmique au service des visuels.](#creative-coding-et-génération-procédurale-lalgorithmique-au-service-des-visuels)
     
-- [Articles en cours de traitement.](#~En cours de traitement)
+- [Articles en cours de traitement.](#en-cours-de-traitement)
     
 
 ---
@@ -33,9 +33,9 @@ Bienvenue sur ma veille technologique ! J'y traite actuellement les sujets suiva
 
 |File3|Date|Source|Lien|
 |---|---|---|---|
-|[Hachage moderne des mots de passe avec argon2id](Veille Technologique/Hachage moderne des mots de passe avec argon2id.md)|septembre 26, 2026|[Shattered](https://shattered.io/fr/argon2id-vs-bcrypt-vs-scrypt-2026/)|-|
-|[La croissance des secrets exposés](Veille Technologique/La croissance des secrets exposés.md)|septembre 26, 2026|[GitGuardian](https://www.gitguardian.com/state-of-secrets-sprawl-report-2026)|-|
-|[Retour sur le OWASP Top 10 2025](Veille Technologique/Retour sur le OWASP Top 10 2025.md)|septembre 26, 2026|[OWASP](https://top10.owasp.org/2025/0x00_2025-Introduction/)|-|
+|[Hachage moderne des mots de passe avec argon2id](Veille0Technologique/Hachage0moderne0des0mots0de0passe0avec0argon2id.md)|septembre 26, 2026|[Shattered](https://shattered.io/fr/argon2id-vs-bcrypt-vs-scrypt-2026/)|-|
+|[La croissance des secrets exposés](Veille0Technologique/La0croissance0des0secrets0exposés.md)|septembre 26, 2026|[GitGuardian](https://www.gitguardian.com/state-of-secrets-sprawl-report-2026)|-|
+|[Retour sur le OWASP Top 10 2025](Veille0Technologique/Retour0sur0le0OWASP0Top01002025.md)|septembre 26, 2026|[OWASP](https://top10.owasp.org/2025/0x00_2025-Introduction/)|-|
 
 ---
 
@@ -43,9 +43,9 @@ Bienvenue sur ma veille technologique ! J'y traite actuellement les sujets suiva
 
 |File3|Date|Source|Lien|
 |---|---|---|---|
-|[L’approche “AI-First Software Delivery”](Veille Technologique/L’approche “AI-First Software Delivery”.md)|septembre 27, 2026|[Thoughtworks](https://www.thoughtworks.com/perspectives/edition36-ai-first-software-engineering/article)|-|
-|[L’IA permet-elle de coder plus rapidement](Veille Technologique/L’IA permet-elle de coder plus rapidement.md)|septembre 27, 2026|[Developpez](https://intelligence-artificielle.developpez.com/actu/373740/Une-etude-revele-que-les-outils-d-IA-de-codage-ralentissent-les-developpeurs-tout-en-leur-donnant-l-illusion-d-etre-plus-rapides-ils-ont-mis-19-pourcent-plus-de-temps-a-accomplir-les-taches-de-codage/)|-|
-|[Témoignage sur l’intégration de l’IA au sein d’une équipe de dev](Veille Technologique/Témoignage sur l’intégration de l’IA au sein d’une équipe de dev.md)|septembre 27, 2026|[Underscore_](https://www.youtube.com/watch?v=AiytemqB_F0&t=10s)|-|
+|[L’approche “AI-First Software Delivery”](Veille0Technologique/L’approche0“AI-First0Software0Delivery”.md)|septembre 27, 2026|[Thoughtworks](https://www.thoughtworks.com/perspectives/edition36-ai-first-software-engineering/article)|-|
+|[L’IA permet-elle de coder plus rapidement](Veille0Technologique/L’IA0permet-elle0de0coder0plus0rapidement.md)|septembre 27, 2026|[Developpez](https://intelligence-artificielle.developpez.com/actu/373740/Une-etude-revele-que-les-outils-d-IA-de-codage-ralentissent-les-developpeurs-tout-en-leur-donnant-l-illusion-d-etre-plus-rapides-ils-ont-mis-19-pourcent-plus-de-temps-a-accomplir-les-taches-de-codage/)|-|
+|[Témoignage sur l’intégration de l’IA au sein d’une équipe de dev](Veille0Technologique/Témoignage0sur0l’intégration0de0l’IA0au0sein0d’une0équipe0de0dev.md)|septembre 27, 2026|[Underscore_](https://www.youtube.com/watch?v=AiytemqB_F0&t=10s)|-|
 
 ---
 
@@ -71,10 +71,10 @@ Dataview: No results to show for table query.
 
 Dans cette section, je consigne les formations que je repère en dehors du BTS, dans l’objectif d’obtenir de nouvelles compétences ou de consolider celles que j’ai déjà. Elles sont sélectionnées en partant du principe qu’elles peuvent m’aider dans ma carrière professionnelle, et qu’elles correspondent à ma spécialisation (développement d’applications).
 
-- [Outils et Environnements](#Outils et Environnements)
-- [Langages](#Langages)
-- [Workflow](#Workflow)
-- [Autre](#Autre)
+- [Outils et Environnements](#outils-et-environnements)
+- [Langages](#langages)
+- [Workflow](#workflow)
+- [Autre](#autre)
 
 ---
 
@@ -82,8 +82,8 @@ Dans cette section, je consigne les formations que je repère en dehors du BTS, 
 
 |File2|Progression|Compétences|Validation|Lien|
 |---|---|---|---|---|
-|[Pico-8 Shoot ’Em Up](Auto-Formation/Pico-8  Shoot ’Em Up.md)|En cours|Pico-8, Lua, Game Dev|Pas de validation|-|
-|[Unity Learn Pathways](Auto-Formation/Unity Learn Pathways.md)|Pas commencé|Unity, C#, Game Dev|Attestation de suivi|-|
+|[Pico-8 Shoot ’Em Up](Auto-Formation/Pico-800Shoot0’Em0Up.md)|En cours|Pico-8, Lua, Game Dev|Pas de validation|-|
+|[Unity Learn Pathways](Auto-Formation/Unity0Learn0Pathways.md)|Pas commencé|Unity, C#, Game Dev|Attestation de suivi|-|
 
 ---
 
@@ -91,7 +91,7 @@ Dans cette section, je consigne les formations que je repère en dehors du BTS, 
 
 |File1|Progression|Compétences|Validation|Lien|
 |---|---|---|---|---|
-|[Foundational C Sharp with Microsoft](Auto-Formation/Foundational C Sharp with Microsoft.md)|Pas commencé|C#, VS|Certification|-|
+|[Foundational C Sharp with Microsoft](Auto-Formation/Foundational0C0Sharp0with0Microsoft.md)|Pas commencé|C#, VS|Certification|-|
 
 ---
 
@@ -99,7 +99,7 @@ Dans cette section, je consigne les formations que je repère en dehors du BTS, 
 
 |File1|Progression|Compétences|Validation|Lien|
 |---|---|---|---|---|
-|[GitHub Foundations](Auto-Formation/GitHub Foundations.md)|En cours|Git, GitHub|Certification|-|
+|[GitHub Foundations](Auto-Formation/GitHub0Foundations.md)|En cours|Git, GitHub|Certification|-|
 
 ---
 
@@ -107,4 +107,4 @@ Dans cette section, je consigne les formations que je repère en dehors du BTS, 
 
 |File1|Progression|Compétences|Validation|Lien|
 |---|---|---|---|---|
-|[HarvardX CS50's Introduction to 2D Game Development](Auto-Formation/HarvardX CS50's Introduction to 2D Game Development.md)|Pas commencé|Lua, Game Dev|Attestation de suivi|-|
+|[HarvardX CS50's Introduction to 2D Game Development](Auto-Formation/HarvardX0CS50's0Introduction0to02D0Game0Development.md)|Pas commencé|Lua, Game Dev|Attestation de suivi|-|
