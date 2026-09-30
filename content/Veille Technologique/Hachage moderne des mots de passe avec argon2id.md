@@ -1,4 +1,4 @@
-﻿---
+---
 theme: Cybersec & Logiciels
 date: 2026-09-26
 source: "[Shattered](https://shattered.io/fr/argon2id-vs-bcrypt-vs-scrypt-2026/)"
