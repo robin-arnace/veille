@@ -1,11 +1,10 @@
 ---
 theme:
 date:
-source:
-url:
+source: "[]()"
 auteur: Robin Arnace
 ---
-Synthèse...
+Synthèse
 
 ## Source
 

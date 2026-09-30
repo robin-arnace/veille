@@ -6,7 +6,7 @@ competences:
   - Game Dev
 validation: Pas de validation
 categorie: Outils et Environnements
-url: https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd
+source: "[Lazy Devs](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd)"
 ---
 Tutoriels youtube de niveau débutant pour créer un jeu « shoot ‘em up » sur Pico-8, en Lua.
 

@@ -6,7 +6,7 @@ competences:
   - Game Dev
 validation: Attestation de suivi
 categorie: Outils et Environnements
-url: https://learn.unity.com/pathways
+source: "[Unity](https://learn.unity.com/pathways)"
 ---
 Pour apprendre à utiliser Unity, moteur de jeu-vidéo le plus populaire.
 

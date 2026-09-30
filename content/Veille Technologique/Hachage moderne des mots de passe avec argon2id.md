@@ -1,8 +1,7 @@
 ---
 theme: Cybersec & Logiciels
 date: 2026-09-26
-source: Shattered
-url: https://shattered.io/fr/argon2id-vs-bcrypt-vs-scrypt-2026/
+source: "[Shattered](https://shattered.io/fr/argon2id-vs-bcrypt-vs-scrypt-2026/)"
 auteur: Robin Arnace
 ---
 Le hachage, contrairement au chiffrement, est une transformation à sens unique de données.
@@ -13,6 +12,6 @@ Argon2id, datant tout de même de 2015, a été comparé avec des alternatives p
 
 Ainsi, il reste la norme pour le hachage des mots de passe.
 
-## Sources
+## Source
 
 - [Shattered](https://shattered.io/fr/argon2id-vs-bcrypt-vs-scrypt-2026/)

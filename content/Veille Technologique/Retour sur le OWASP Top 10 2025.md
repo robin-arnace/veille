@@ -1,8 +1,7 @@
 ---
 theme: Cybersec & Logiciels
 date: 2026-09-26
-source: OWASP
-url: https://top10.owasp.org/2025/0x00_2025-Introduction/
+source: "[OWASP](https://top10.owasp.org/2025/0x00_2025-Introduction/)"
 auteur: Robin Arnace
 ---
 La fondation OWASP (Open Worldwide Application Security Project), référence en matière de standards de la sécurité informatique, a publié son dernier top dix des vulnérabilités les plus courantes et critiques en 2025.
@@ -21,6 +20,6 @@ C’est ici l’occasion de revenir sur les points les plus importants, dont les
 
 Ce guide, basé sur de véritables données, se révèle indispensable lorsqu’il s’agit de concevoir un programme concerné par ces vulnérabilités.
 
-## Sources
+## Source
 
 - [OWASP](https://top10.owasp.org/2025/0x00_2025-Introduction/)

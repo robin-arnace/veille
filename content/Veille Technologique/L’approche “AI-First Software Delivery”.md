@@ -1,8 +1,7 @@
 ---
 theme: IA & Dev
 date: 2026-09-27
-source: Thoughtworks
-url: https://www.thoughtworks.com/perspectives/edition36-ai-first-software-engineering/article
+source: "[Thoughtworks](https://www.thoughtworks.com/perspectives/edition36-ai-first-software-engineering/article)"
 auteur: Robin Arnace
 ---
 Comment les développeurs cohabitent avec l’intelligence artificielle, lorsqu’elle est intégrée dès le début dans la conception d’un logiciel ?
@@ -13,6 +12,6 @@ Et bien plus que des gains de rapidité, l’IA devient essentielle dans certain
 
 Ainsi, avec l’approche AIFSD, la relation IA-développeurs devient non seulement une question de gains de productivité, mais aussi de nouvelles solutions n’ayant jamais été possible auparavant.
 
-## Sources
+## Source
 
 - [Thoughtworks](https://www.thoughtworks.com/perspectives/edition36-ai-first-software-engineering/article)
