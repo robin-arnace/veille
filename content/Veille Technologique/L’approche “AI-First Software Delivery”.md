@@ -1,4 +1,4 @@
----
+﻿---
 theme: IA & Dev
 date: 2026-09-27
 source: "[Thoughtworks](https://www.thoughtworks.com/perspectives/edition36-ai-first-software-engineering/article)"

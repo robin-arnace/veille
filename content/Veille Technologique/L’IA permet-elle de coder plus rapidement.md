@@ -1,4 +1,4 @@
----
+﻿---
 theme: IA & Dev
 date: 2026-09-27
 source: "[Developpez](https://intelligence-artificielle.developpez.com/actu/373740/Une-etude-revele-que-les-outils-d-IA-de-codage-ralentissent-les-developpeurs-tout-en-leur-donnant-l-illusion-d-etre-plus-rapides-ils-ont-mis-19-pourcent-plus-de-temps-a-accomplir-les-taches-de-codage/)"

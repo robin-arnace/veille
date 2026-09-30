@@ -1,4 +1,4 @@
----
+﻿---
 theme: Cybersec & Logiciels
 date: 2026-09-26
 source: "[GitGuardian](https://www.gitguardian.com/state-of-secrets-sprawl-report-2026)"
